@@ -3,7 +3,7 @@ Python code for detecting malicious website from given dataset
 
 
 
-This repository got the following folders: 
+This repository got the following : 
   a.  Dataset
   b.  Code
 
